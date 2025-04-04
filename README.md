@@ -11,7 +11,7 @@ Lexicon is a locally executed AI chat application designed to provide fast and n
 - **Multiple conversation support**: Manage multiple chats based on stored JSON files.
 - **Text-to-Speech (TTS)**: Option for the AI to read responses aloud using `pyttsx3`.
 - **Speech-to-Text transcription**: Convert voice into text for AI interaction.
-- **GPU optimization**: Can utilize GPU acceleration for better performance with `llama-cpp-python`.
+- **GPU optimization**: Can utilize GPU acceleration for better performance with `llama-cpp-python`. (coming soon)
 - **Voice command support** (coming soon).
 
 ## Installation & Execution
