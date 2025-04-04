@@ -41,6 +41,8 @@ Lexicon is a locally executed AI chat application designed to provide fast and n
 
 ## Compiling to Executable
 
+### Windows
+
 To generate a standalone executable for Windows using PyInstaller:
 ```bash
 pyinstaller --distpath DEV/dist --workpath DEV/build --specpath DEV/ \
