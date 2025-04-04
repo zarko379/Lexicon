@@ -63,5 +63,5 @@ This project is licensed under the MIT License.
 
 ## Support
 
-If you like this project and want to support it, you can donate via GitHub Sponsors or PayPal. Your support helps maintain and improve Lexicon!
-
+If you like this project and want to support it, you can donate via PayPal. Your support helps maintain and improve Lexicon!
+### Paypal --> zarko379@protonmail.com
