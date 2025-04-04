@@ -1,6 +1,6 @@
 # Lexicon
 
-Lexicon is a locally executed AI chat application designed to provide fast and natural responses without requiring an internet connection. It utilizes the **Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf** model to process and generate responses.
+Lexicon is a locally executed AI chat application designed to provide fast and natural responses without requiring an internet connection. It utilizes the **Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf** model to process and generate responses (You can use your own model, but you need to change the path from main.py and from the compilation command). 
 
 ## Features
 
@@ -10,7 +10,7 @@ Lexicon is a locally executed AI chat application designed to provide fast and n
 - **Load previous conversations**: Load saved chats from JSON to continue previous sessions.
 - **Multiple conversation support**: Manage multiple chats based on stored JSON files.
 - **Text-to-Speech (TTS)**: Option for the AI to read responses aloud using `pyttsx3`.
-- **Speech-to-Text transcription**: Convert voice into text for AI interaction.
+- **Speech-to-Text transcription**: Convert voice into text for AI interaction. (coming soon)
 - **GPU optimization**: Can utilize GPU acceleration for better performance with `llama-cpp-python`. (coming soon)
 - **Voice command support** (coming soon).
 
